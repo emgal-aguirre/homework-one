@@ -1,5 +1,20 @@
 # 01 HTML CSS Git: Code Refactor
-<img src="homework-one-code-refactor/Homework-Corrections/Screenshots/homepage0.png"
+
+In this project I cleaned up the code by renaming divs to heading, footer, body and more. 
+I created sections and properly labeled images with alt tags. In addition I corrected the SEO link and a few minor changes. 
+
+Please find screenshots here. (I had trouble linking them to this file) 
+https://github.com/emgal-aguirre/homework-one-code-refactor/blob/master/Homework-Corrections/Screenshots/homepage0.png
+
+
+
+
+
+
+
+
+
+# Insturctions
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
